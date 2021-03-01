@@ -1,2 +1,4 @@
 # DauntlessH5P
-An Image Hotspot of Mert and Askin
+Ein Image Hotspot von Mert und Askin
+Farbe: #ff9000
+
